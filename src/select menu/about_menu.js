@@ -33,7 +33,7 @@ module.exports = async (client, config) => {
                   {
                     label: "About Sun Community",
                     value: "ASC",
-                    emoji: emojis.aboutSun,
+                    emoji: "emojis.aboutSun",
                   },
                   {
                     label: "Hall of fame for tourney wins",

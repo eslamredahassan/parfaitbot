@@ -13,10 +13,10 @@ console.log(
  `
 );
 console.log(
-  `\x1b[43m`,
+  
   `|                          PARFAIT™ DEV VERSION                       |`
 );
 console.log(
-  `\x1b[41m`,
+  
   `|                               SYSTEM LOG                            |`
 );
